@@ -10,3 +10,10 @@ bbb
 ccc
 ddd
 eee
+fff<<<<<<< .mine
+ddd
+fff
+=======
+ddd
+eee
+>>>>>>> .theirs
