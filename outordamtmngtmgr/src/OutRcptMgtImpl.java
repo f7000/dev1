@@ -1,7 +1,7 @@
 /**
  * @(#) OutRcptMgtImpl.java
  *수정이력
- * 		- 2007. 4. 02 / 최초작성 / 최희경1111222333
+ * 		- 2007. 4. 02 / 최초작성 / 최희경1111222333444555
  */
 package himed.his.pam.outordamtmngtmgr.outrcptmgt;
 
